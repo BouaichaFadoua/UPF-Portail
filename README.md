@@ -156,18 +156,18 @@ OPENAI_API_KEY=sk-proj-votre_cle_ici
 
 | Rôle | Email | Mot de passe |
 |------|-------|--------------|
-| 🔴 Admin | `admin@upf.dz` | `password` |
-| 🟡 Professeur | `prof.alami@upf.dz` | `password` |
-| 🟡 Professeur | `prof.bennani@upf.dz` | `password` |
-| 🟡 Professeur | `prof.idrissi@upf.dz` | `password` |
-| 🟡 Professeur | `prof.haddad@upf.dz` | `password` |
-| 🟡 Professeur | `prof.mansouri@upf.dz` | `password` |
-| 🟢 Étudiant | `etudiant1@upf.dz` | `password` |
-| 🟢 Étudiant | `etudiant2@upf.dz` | `password` |
-| 🟢 Étudiant | `etudiant3@upf.dz` | `password` |
-| 🟢 Étudiant | `etudiant4@upf.dz` | `password` |
-| 🟢 Étudiant | `etudiant5@upf.dz` | `password` |
-| ⚪ Personnel | `personnel@upf.dz` | `password` |
+| 🔴 Admin | `admin@gmail.com` | `password` |
+| 🟡 Professeur | `prof.alami@gmail.com` | `password` |
+| 🟡 Professeur | `prof.bennani@gmail.com` | `password` |
+| 🟡 Professeur | `prof.idrissi@gmail.com` | `password` |
+| 🟡 Professeur | `prof.haddad@gmail.com` | `password` |
+| 🟡 Professeur | `prof.mansouri@gmail.com` | `password` |
+| 🟢 Étudiant | `etudiant1@gmail.com` | `password` |
+| 🟢 Étudiant | `etudiant2@gmail.com` | `password` |
+| 🟢 Étudiant | `etudiant3@gmail.com` | `password` |
+| 🟢 Étudiant | `etudiant4@gmail.com` | `password` |
+| 🟢 Étudiant | `etudiant5@gmail.com` | `password` |
+| ⚪ Personnel | `personnel@gmail.com` | `password` |
 
 ---
 

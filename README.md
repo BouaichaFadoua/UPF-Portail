@@ -84,10 +84,6 @@
 
 ### 1. Cloner le projet
 
-```bash
-git clone https://github.com/votre-compte/examphp.git
-cd examphp
-```
 
 ### 2. Installer les dépendances
 

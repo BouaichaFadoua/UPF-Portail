@@ -1,0 +1,17 @@
+{
+    "Dashboard": "Dashboard",
+    "Utilisateurs": "Users",
+    "Filières": "Fields of Study",
+    "Modules": "Modules",
+    "Groupes": "Groups",
+    "Salles": "Rooms",
+    "Notes & Bulletins": "Grades & Reports",
+    "Emploi du Temps": "Timetable",
+    "Demandes administratives": "Administrative Requests",
+    "Réservations de Salles": "Room Reservations",
+    "Absences": "Absences",
+    "Cahiers de Textes": "Textbooks / Logs",
+    "Recherche globale (Étudiants, Modules...)": "Global search (Students, Modules...)",
+    "Connecté en tant que": "Logged in as",
+    "Déconnexion": "Logout"
+}

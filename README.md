@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/AlpineJS-3.x-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=white" alt="Alpine.js">
 </p>
 
-> Plateforme de gestion pédagogique et administrative pour établissements universitaires. Développée dans le cadre du **Projet de Fin de Module TW2 – UPF**.
+> Plateforme de gestion pédagogique et administrative pour établissements universitaires. Développée dans le cadre du **Projet de Fin de Module – UPF**.
 
 ---
 
@@ -140,11 +140,12 @@ L'application sera disponible sur **http://localhost:8000**
 
 Pour activer les fonctionnalités d'intelligence artificielle du chatbot étudiant, ajoutez votre clé API OpenAI dans le fichier `.env` :
 
-```env
-OPENAI_API_KEY=sk-proj-votre_cle_ici
-```
+## 🔐 Configuration OpenAI
 
-*Note: En local, si aucune clé valide n'est configurée (ou si elle contient `sk-xxxx...`), le chatbot s'exécute automatiquement en **mode démonstration**, interrogeant directement la base de données de l'étudiant pour formuler des réponses naturelles pré-formatées sans requérir de crédits OpenAI.*
+To enable AI features, add your OpenAI API key in the `.env` file:
+
+```env
+OPENAI_API_KEY=your_openai_api_key_here
 
 ---
 
@@ -300,12 +301,8 @@ php artisan test
 
 ---
 
-## 📜 Licence
 
-Ce projet est développé dans un cadre académique — **UPF, Module TW2 — Projet de Fin de Module**.
-
----
 
 <p align="center">
-  Développé avec ❤️ et Laravel · UPF · 2024–2025
+  Développé avec ❤️ · UPF · 2025–2026
 </p>
